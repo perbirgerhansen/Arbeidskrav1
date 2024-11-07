@@ -19,7 +19,7 @@ Bomavgift_Bensin = 0.3*KM #Bomavgift * KM Bensinbil
 elbilsum = Forsikring_EL + Trafikkavg + Strompris + Bomavgift_EL #Summer elbil
 Bensinbilsum = Forsikring_Bensin + Trafikkavg + Bensinpris + Bomavgift_Bensin #Summer Bensinbil
 
-print ("Pris pr År for el-bil:", elbilsum)
+print ("Pris pr år for el-bil:", elbilsum)
 print ("Pris pr. år for bensinbil:", Bensinbilsum)
-print("Kostandsdifferansen", Bensinbilsum - elbilsum )
+print("Kostandsdifferansen mellom Bensin og Elbil", Bensinbilsum - elbilsum )
 
