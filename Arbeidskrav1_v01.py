@@ -21,5 +21,5 @@ Bensinbilsum = Forsikring_Bensin + Trafikkavg + Bensinpris + Bomavgift_Bensin #S
 
 print ("Pris pr år for el-bil:", elbilsum)
 print ("Pris pr. år for bensinbil:", Bensinbilsum)
-print("Differansen viser at Elbil er billiger med kr. ", Bensinbilsum - elbilsum )
+print("Differansen viser at Elbil er rimeligere med kr. ", Bensinbilsum - elbilsum )
 
